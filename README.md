@@ -1,4 +1,4 @@
-Hi 👋 My name is Mathieu
+Hi 👋 My name is Math
 ========================
 Python/Django web developer
 ---------------------------
